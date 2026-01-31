@@ -1,7 +1,4 @@
 # CryptoGift Wallets - Snake Animation Workflow
-# Generates a snake animation that eats your GitHub contributions
-# Colors: Cyan #00FFAA | Blue #4169E1 | Emerald #10B981
-
 name: Generate Snake Animation
 
 on:
@@ -22,34 +19,14 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake (Dark Mode)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
+            dist/snake.svg
             dist/snake-dark.svg?palette=github-dark&color_snake=#00FFAA&color_dots=#161b22,#064e3b,#047857,#10b981,#34d399
-            dist/snake-dark.gif?palette=github-dark&color_snake=#00FFAA&color_dots=#161b22,#064e3b,#047857,#10b981,#34d399
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Snake (Light Mode)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-light.svg?palette=github-light&color_snake=#4169E1&color_dots=#d1fae5,#a7f3d0,#6ee7b7,#34d399,#10b981
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Combined Snake (Auto Theme)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#2DD4BF&color_dots=#161b22,#1e3a5f,#3b82f6,#4169E1,#00FFAA
+            dist/snake.gif?color_snake=#00FFAA&color_dots=#161b22,#064e3b,#047857,#10b981,#34d399
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -58,6 +35,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🐍 Update CryptoGift snake animation"
+          commit_message: "🐍 Update CryptoGift snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
