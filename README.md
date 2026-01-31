@@ -1,7 +1,6 @@
 <div align="center">
-
-<!-- LOGO + TITULO JUNTOS -->
-<img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="120" alt="CryptoGift"/> <h1>CryptoGift Wallets</h1>
+<img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="120" alt="CryptoGift"/>
+<h2>CryptoGift Wallets</h2>
 
 **Building the Future of Crypto Gifting**
 
