@@ -1,8 +1,8 @@
 <div align="center">
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="180"/></td>
-<td><img src="https://capsule-render.vercel.app/api?type=transparent&text=CryptoGift%20Wallets&fontColor=0052FF&fontSize=48&fontAlign=50&fontAlignY=50&height=100" alt="CryptoGift Wallets"/></td>
+<td><img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="280"/></td>
+<td><img src="https://capsule-render.vercel.app/api?type=transparent&text=CryptoGift%20Wallets&fontColor=0052FF&fontSize=72&fontAlign=50&fontAlignY=50&height=150&animation=fadeIn" alt="CryptoGift Wallets"/></td>
 </tr></table>
 
 **Building the Future of Crypto Gifting**
