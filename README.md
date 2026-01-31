@@ -40,3 +40,71 @@
 
 <div align="center">
 
+╔══════════════════════════════════════════════════════════════════╗
+║ ║
+║ ██████╗██████╗ ██╗ ██╗██████╗ ████████╗ ██████╗ ║
+║ ██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝██╔═══██╗ ║
+║ ██║ ██████╔╝ ╚████╔╝ ██████╔╝ ██║ ██║ ██║ ║
+║ ██║ ██╔══██╗ ╚██╔╝ ██╔═══╝ ██║ ██║ ██║ ║
+║ ╚██████╗██║ ██║ ██║ ██║ ██║ ╚██████╔╝ ║
+║ ╚═════╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═════╝ ║
+║ ║
+║ ██████╗ ██╗███████╗████████╗ ██╗ ██╗ █████╗ ██╗ ██╗ ║
+║ ██╔════╝ ██║██╔════╝╚══██╔══╝ ██║ ██║██╔══██╗██║ ██║ ║
+║ ██║ ███╗██║█████╗ ██║ ██║ █╗ ██║███████║██║ ██║ ║
+║ ██║ ██║██║██╔══╝ ██║ ██║███╗██║██╔══██║██║ ██║ ║
+║ ╚██████╔╝██║██║ ██║ ╚███╔███╔╝██║ ██║███████╗███████╗
+║ ╚═════╝ ╚═╝╚═╝ ╚═╝ ╚══╝╚══╝ ╚═╝ ╚═╝╚══════╝╚══════╝
+║ ║
+║ 🎁 The Future of Crypto Gifting 💎 ║
+║ ║
+╚══════════════════════════════════════════════════════════════════╝
+
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 About Me
+
+```javascript
+const cryptoGiftFounder = {
+    name: "ElMartidel96",
+    role: "Founder & Lead Developer",
+    project: "CryptoGift Wallets DAO",
+
+    mission: "Making crypto gifting
+              simple and accessible",
+
+    building: [
+        "Web3 Solutions",
+        "Smart Contracts",
+        "DeFi Applications"
+    ],
+
+    status: "🔥 Building the future"
+};
+
+</td> <td align="center" width="50%">
+🎯 CryptoGift Vision
+Feature	Status
+🎁 Crypto Gifting	✅ Active
+💳 Multi-Chain Wallets	🔄 Building
+🏛️ DAO Governance	✅ Active
+🔐 Secure Transfers	✅ Active
+🌐 Global Access	🔄 Expanding
+💎 NFT Integration	📅 Planned
+</td> </tr> </table> <h2 align="center">💻 Tech Stack</h2> <div align="center">
+
+Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=ts,js,solidity,rust,python,go&theme=dark" alt="Languages"/>
+
+Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,prisma&theme=dark" alt="Frameworks"/>
+
+Blockchain & Tools
+<img src="https://skillicons.dev/icons?i=ethereum,ipfs,docker,git,github,vscode&theme=dark" alt="Tools"/> </div> <h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ElMartidel96&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=4169E1&text_color=ffffff&ring_color=10B981" height="170" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElMartidel96&hide_border=true&background=0d1117&ring=00FFAA&fire=4169E1&currStreakLabel=00FFAA&sideLabels=ffffff&currStreakNum=ffffff&sideNums=10B981&dates=888888" height="170" alt="GitHub Streak"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMartidel96&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFAA&text_color=ffffff" alt="Top Languages"/> </div> <h2 align="center">🔗 Connect with CryptoGift</h2> <div align="center"> <p> <a href="https://github.com/CryptoGift-Wallets-DAO"> <img src="https://img.shields.io/badge/Organization-CryptoGift_DAO-00FFAA?style=for-the-badge&logo=github&logoColor=white" alt="Org"/> </a> <a href="https://github.com/CryptoGift-Wallets-DAO/CryptoGift-Wallets-DAO"> <img src="https://img.shields.io/badge/Main_Repo-CryptoGift_Wallets-4169E1?style=for-the-badge&logo=git&logoColor=white" alt="Repo"/> </a> </p> </div> <div align="center">
+💎 "Gift Crypto, Gift Freedom" 💎
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,50:4169E1,100:10B981&height=120&section=footer" width="100%"/> </div> ```
