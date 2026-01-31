@@ -2,7 +2,7 @@
 
 <table><tr>
 <td><img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="180"/></td>
-<td><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=3000&pause=1000&color=0052FF&vCenter=true&repeat=false&width=450&height=80&lines=CryptoGift+Wallets" alt="CryptoGift Wallets"/></td>
+<td><img src="https://capsule-render.vercel.app/api?type=transparent&text=CryptoGift%20Wallets&fontColor=0052FF&fontSize=48&fontAlign=50&fontAlignY=50&height=100" alt="CryptoGift Wallets"/></td>
 </tr></table>
 
 **Building the Future of Crypto Gifting**
