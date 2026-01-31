@@ -1,6 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="120" alt="CryptoGift"/>
-<h2>CryptoGift Wallets</h2>
+
+<a href="https://github.com/CryptoGift-Wallets-DAO">
+<img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="200"/>
+</a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&pause=1000&color=0052FF&center=true&vCenter=true&width=500&height=70&lines=CryptoGift+Wallets" alt="CryptoGift Wallets"/>
 
 **Building the Future of Crypto Gifting**
 
