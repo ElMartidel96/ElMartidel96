@@ -1,22 +1,17 @@
 <div align="center">
 
-<a href="https://github.com/CryptoGift-Wallets-DAO">
-<img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="200"/>
-</a>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&pause=1000&color=0052FF&center=true&vCenter=true&width=500&height=70&lines=CryptoGift+Wallets" alt="CryptoGift Wallets"/>
+<table><tr>
+<td><img src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/main/gift-logo.png" width="180"/></td>
+<td><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=3000&pause=1000&color=0052FF&vCenter=true&repeat=false&width=450&height=80&lines=CryptoGift+Wallets" alt="CryptoGift Wallets"/></td>
+</tr></table>
 
 **Building the Future of Crypto Gifting**
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/output/snake.svg" />
   <img alt="CryptoGift Snake Animation" src="https://raw.githubusercontent.com/ElMartidel96/ElMartidel96/output/snake.svg" />
 </picture>
-
----
 
 [![Base](https://img.shields.io/badge/Built_on-Base-0052FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHg9IjIiIHk9IjIiIHJ4PSIzIiBmaWxsPSIjMDA1MkZGIi8+PC9zdmc+&logoColor=0052FF)](https://base.org)
 [![CryptoGift DAO](https://img.shields.io/badge/DAO-CryptoGift_Wallets-0052FF?style=flat-square)](https://github.com/CryptoGift-Wallets-DAO)
